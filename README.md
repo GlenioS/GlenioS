@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GlenioS
 - 👀 I’m interested in computer network, operating systems, programming
 - 🌱 I’m currently learning Cisco Technologies and C
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me ...
 
 <!---
